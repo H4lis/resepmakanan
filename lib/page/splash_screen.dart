@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:resep_makanan/page/login_page.dart';
+import 'package:resep_makanan/page/register_page.dart';
 import 'package:resep_makanan/theme.dart';
 
 class SplashScreen extends StatelessWidget {
@@ -64,7 +65,7 @@ class SplashScreen extends StatelessWidget {
                   Navigator.push(
                       context,
                       MaterialPageRoute(
-                        builder: (context) => LoginPage(),
+                        builder: (context) => RegisterPage(),
                       ));
                 },
                 child: Container(

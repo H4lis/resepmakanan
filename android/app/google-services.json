@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "762545270724",
+    "project_id": "resep-makanan-34ca1",
+    "storage_bucket": "resep-makanan-34ca1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762545270724:android:570af03681f51faa76fe91",
+        "android_client_info": {
+          "package_name": "com.example.resep_makanan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlIk45MvRNsv90VDofECtkiUdDVl9aM8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
